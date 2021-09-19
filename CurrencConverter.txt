@@ -1,0 +1,13 @@
+east-Pacific Region
+Australia. x0.33
+Bangladesh. x20.46
+Brunei.  x0.32
+China x1.55
+
+South pacific
+Fiji x0.50
+Thai Baht x7.95
+
+Others 
+korea x283.38
+japan x26.24
